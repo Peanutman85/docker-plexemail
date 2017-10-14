@@ -11,4 +11,4 @@ COPY root/ /
 
 # ports and volumes
 VOLUME /config /plex
-EXPOSE 8080
+EXPOSE 8081
